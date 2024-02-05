@@ -22,7 +22,23 @@
 
 # Other solutions
 
-* **[solutions by Michelle Bodnar and Andrew Lohr](http://sites.math.rutgers.edu/~ajl213/CLRS/CLRS.html)**
-* **[solutions by Stefan Kanev](https://ita.skanev.com)**
-* **[solutions by Don R. Walsh](https://donrwalsh.github.io/CLRS)**
-* **[the textbook's page on Quizlet](https://quizlet.com/explanations/textbook-solutions/introduction-to-algorithms-4th-edition-9780262046305)**
+## Use those 2 interchangably if needed
+* **[Solutions by Stefan Kanev](https://ita.skanev.com)**
+  * Fully completed
+  * Use C/C++
+  * Solutions fairly understandable
+* **[Solutions by Don R. Walsh](https://donrwalsh.github.io/CLRS)**
+  * Only completed 18%
+  * Use Python
+  * Solutions fairly understandsable
+ 
+## Go to this for preference
+* **[Solutions by Michelle Bodnar and Andrew Lohr](http://sites.math.rutgers.edu/~ajl213/CLRS/CLRS.html)**
+  * Format more formal, use pdf, a bit harder to understand
+  * Pascal
+  * Less preferred
+
+### Use this for practice
+* **[The textbook's page on Quizlet](https://quizlet.com/explanations/textbook-solutions/introduction-to-algorithms-4th-edition-9780262046305)**
+  * Just a textbook
+  * Need UBlock Origin to view freely
