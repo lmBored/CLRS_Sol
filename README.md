@@ -19,7 +19,7 @@
   * Crowdsourced solutions coordinated by Peng-Yu Chen
   * Python
   * Can become a contributor
-* **[CyberZHG/CLRS](https://github.com/CyberZHG/CLRS)**
+* **[CyberZHG/CLRS](https://github.com/CyberZHG/CLRS)** (Not preferred)
   * 414 stars
   * Use Jupyter Notebook (Python)
   * Can't become a contributor
